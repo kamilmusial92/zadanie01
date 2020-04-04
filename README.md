@@ -1,0 +1,2 @@
+##Instrukcja i wyjaśnienia##
+W zadaniu mam zapisać 100 osób do bazy, aczkolwiek w https://swapi.co/ w dokumentacji gdzie jest endpoint https://swapi.co/api/people maksymalna ilość osób to 87, więc pobrałem tyle osób. Mógłbym resztę dopisać jakieś fejkowe przez seeder, ale nie wydaje mi się że jest to konieczne do zrobienia tego zadania :).
